@@ -10,10 +10,9 @@
 ░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
 
 
-* Project name - VAJIRA- MD 
-* Author - Vajira Rathnayaka
-* Team - Technical Cybers 
-* Version - V6
+* Project name - MNZ7-bot
+* Author - mm7
+*
 
 World best and powerfull whatsapp user bot in Sri lanka*/
 
